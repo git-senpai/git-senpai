@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Shukla</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="center" width="400" src="https://i.pinimg.com/originals/14/1f/e4/141fe4a545e28618d10adbf644a57cce.gif">
+<img align="centre" width="400" src="https://i.pinimg.com/originals/14/1f/e4/141fe4a545e28618d10adbf644a57cce.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-senpai&label=Profile%20views&color=0e75b6&style=flat" alt="git-senpai" /> </p>
 
